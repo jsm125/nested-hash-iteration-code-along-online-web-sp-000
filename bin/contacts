@@ -1,6 +1,5 @@
 require_relative "../lib/contacts.rb"
 
-
 contacts = {
    "Jon Snow" => {
      name: "Jon",
@@ -12,7 +11,7 @@ contacts = {
      email: "freddy@mercury.com",
      favorite_ice_cream_flavors: ["strawberry", "cookie dough", "mint chip"]
    }
- })
+ }
 
 puts remove_strawberry(contacts)
 
