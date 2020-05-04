@@ -14,8 +14,6 @@ require 'pry'
   #   }
   # }
   
-puts remove_strawberry(contacts)
+def remove_strawberry(contacts)
 
-def remove_strawberry
-  
 end
